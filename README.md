@@ -1,1 +1,2 @@
-# SYNCTEST
+# Initial page
+
