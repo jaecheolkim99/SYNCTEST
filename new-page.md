@@ -56,3 +56,42 @@ THIS IS HINT
 
 ![SPIKE](.gitbook/assets/brol-spike.png)
 
+$$
+A = B + C
+$$
+
+## Heading \#1
+
+### Heading \#1.1
+
+#### Heading \#1.1.1
+
+123131  
+12313  
+12313
+
+123131
+
+## Problem
+
+{% tabs %}
+{% tab title="Bash" %}
+```bash
+bash script
+
+```
+{% endtab %}
+
+{% tab title="import" %}
+```python
+import sys
+
+sys
+```
+{% endtab %}
+{% endtabs %}
+
+new text information
+
+
+
